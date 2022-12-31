@@ -49,3 +49,9 @@ My GitHub CodeSpaces
 <https://briansu2004-congenial-funicular-v99qx7qrg3x6w6.github.dev/>
 
 ![1672514623799](image/README/1672514623799.png)
+
+## My 1st Preact CodeSpace
+
+<https://briansu2004-didactic-funicular-94qprg56pgc7g6w.github.dev/>
+
+![1672514727969](image/README/1672514727969.png)
