@@ -44,3 +44,8 @@ My GitHub CodeSpaces
 
 ![1672514551194](image/README/1672514551194.png)
 
+## My 1st Flask CodeSpace
+
+<https://briansu2004-congenial-funicular-v99qx7qrg3x6w6.github.dev/>
+
+![1672514623799](image/README/1672514623799.png)
