@@ -55,6 +55,18 @@ https://briansu2004-refactored-journey-49gx5pvwwqh74g-8080.preview.app.github.de
 
 `-8080.preview.app`
 
+[Update the endpoint]
+
+```dos
+https://briansu2004-refactored-journey-49gx5pvwwqh74g.github.dev/api/happy/v1/happynewyear2023
+
+->
+
+https://briansu2004-refactored-journey-49gx5pvwwqh74g-8080.preview.app.github.dev/api/happy/v1/happynewyear2023
+```
+
+![1672524068701](image/README/1672524068701.png)
+
 [Troubleshooting]
 
 ```dos
