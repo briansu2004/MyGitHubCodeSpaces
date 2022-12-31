@@ -31,3 +31,9 @@ My GitHub CodeSpaces
 <https://briansu2004-fuzzy-garbanzo-v7gx9jr6vpcwr7q.github.dev/>
 
 ![1672514370330](image/README/1672514370330.png)
+
+## My 1st Express CodeSpace
+
+<https://briansu2004-glowing-telegram-xq9j7gp9pg26rvg.github.dev/>
+
+![1672514453785](image/README/1672514453785.png)
