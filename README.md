@@ -55,3 +55,9 @@ My GitHub CodeSpaces
 <https://briansu2004-didactic-funicular-94qprg56pgc7g6w.github.dev/>
 
 ![1672514727969](image/README/1672514727969.png)
+
+## My 1st Ruby on Rails CodeSpace
+
+<https://briansu2004-potential-guide-qg9wj54p4436q5.github.dev/>
+
+![1672514834532](image/README/1672514834532.png)
