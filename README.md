@@ -16,7 +16,12 @@ My GitHub CodeSpaces
 
 ## My 1st React Notebook CodeSpace
 
-https://briansu2004-stunning-space-adventure-67rjqx55wphxxg6.github.dev/
+<https://briansu2004-stunning-space-adventure-67rjqx55wphxxg6.github.dev/>
 
 ![1672514170113](image/README/1672514170113.png)
 
+## My 1st Blank CodeSpace
+
+<https://briansu2004-super-space-chainsaw-v7gx9jrgrr2j95.github.dev/>
+
+![1672514271226](image/README/1672514271226.png)
