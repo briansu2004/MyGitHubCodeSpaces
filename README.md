@@ -37,3 +37,10 @@ My GitHub CodeSpaces
 <https://briansu2004-glowing-telegram-xq9j7gp9pg26rvg.github.dev/>
 
 ![1672514453785](image/README/1672514453785.png)
+
+## My 1st Next.js CodeSpace
+
+<https://briansu2004-redesigned-goldfish-94qprg56v5fvxg.github.dev/>
+
+![1672514551194](image/README/1672514551194.png)
+
